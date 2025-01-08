@@ -30,9 +30,10 @@ dataset/
 ```
 ## Results
 * **Accuracy Plot**
+![Screenshot 2025-01-08 122243](https://github.com/user-attachments/assets/ea0e9f24-e0aa-40aa-a1cb-3933c185e676)
 ![Screenshot 2025-01-08 122221](https://github.com/user-attachments/assets/cfc73fe1-9bfe-41e5-99f0-2f783ab505a4)
 
-![Screenshot 2025-01-08 122243](https://github.com/user-attachments/assets/ea0e9f24-e0aa-40aa-a1cb-3933c185e676)
+
 
 
 ## Future Work
