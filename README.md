@@ -19,7 +19,7 @@ Use publicly available datasets such as:
 Kaggle Cats and Dogs Dataset
 
 Ensure the dataset is downloaded and organized in the following structure:
-
+```
 dataset/
 |-- train/
 |   |-- cats/
@@ -27,3 +27,4 @@ dataset/
 |-- test/
     |-- cats/
     |-- dogs/
+```
