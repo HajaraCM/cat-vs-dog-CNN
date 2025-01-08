@@ -28,3 +28,29 @@ dataset/
     |-- cats/
     |-- dogs/
 ```
+## Results
+
+
+Future Work
+
+Enhance the model using transfer learning (e.g., ResNet or VGG).
+
+Add support for multi-class classification (e.g., other animals).
+
+Improve real-time classification with webcam integration.
+
+Contributing
+
+Contributions are welcome! Fork the repository, make your changes, and submit a pull request.
+
+License
+
+This project is licensed under the MIT License.
+
+Acknowledgements
+
+Kaggle for the Cats and Dogs dataset.
+
+TensorFlow/Keras for deep learning tools.
+
+OpenCV for image preprocessing.
