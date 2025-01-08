@@ -62,10 +62,8 @@ This project is licensed under the MIT License.
 
 * OpenCV for image preprocessing.
 
+* Kaggle for the Cats and Dogs dataset.
 
+* TensorFlow/Keras for deep learning tools.
 
-Kaggle for the Cats and Dogs dataset.
-
-TensorFlow/Keras for deep learning tools.
-
-OpenCV for image preprocessing.
+* OpenCV for image preprocessing.
