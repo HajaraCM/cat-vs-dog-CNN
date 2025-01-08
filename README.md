@@ -29,25 +29,36 @@ dataset/
     |-- dogs/
 ```
 ## Results
+**Accuracy Plot**
+![Screenshot 2025-01-08 122221](https://github.com/user-attachments/assets/cfc73fe1-9bfe-41e5-99f0-2f783ab505a4)
+**Loss Plot**
+![Screenshot 2025-01-08 122243](https://github.com/user-attachments/assets/ea0e9f24-e0aa-40aa-a1cb-3933c185e676)
 
+## Future Work
 
-Future Work
+* Enhance the model using transfer learning (e.g., ResNet or VGG).
 
-Enhance the model using transfer learning (e.g., ResNet or VGG).
+* Add support for multi-class classification (e.g., other animals).
 
-Add support for multi-class classification (e.g., other animals).
+* Improve real-time classification with webcam integration.
 
-Improve real-time classification with webcam integration.
-
-Contributing
+## Contributing
 
 Contributions are welcome! Fork the repository, make your changes, and submit a pull request.
 
-License
+## License
 
 This project is licensed under the MIT License.
 
-Acknowledgements
+## Acknowledgements
+
+* Kaggle for the Cats and Dogs dataset.
+
+* TensorFlow/Keras for deep learning tools.
+
+* OpenCV for image preprocessing.
+
+
 
 Kaggle for the Cats and Dogs dataset.
 
